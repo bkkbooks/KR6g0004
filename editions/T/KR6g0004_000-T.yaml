@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0004/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大般涅槃經集解
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1763.xml
+    old_id: T37n1763
+hash: sha256:ecf63a512b588d90517e1e94d27199f99e1f660e9968389188559d3cbbe1c9bd
